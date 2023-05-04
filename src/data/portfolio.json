@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Boca Code Candidates Page Before",
+    "about": "\b \b \b \b \b \b \b \b \b ",
+    "website": "https://jsohndata.github.io/kardashev-scale/",
+    "cover": "bcBefore1.webp",
+    "skill": ["HTML","CSS"]
+  },
+
+  {
+    "id": 2,
+    "name": "Boca Code Candidates Page After",
+    "about": "",
+    "website": "https://jsohndata.github.io/bluenight-in-seoul",
+    "cover": "bcAfter1.webp",
+    "skill": ["HTML","JavaScript","CSS"]
+  },
+
+  {
+    "id": 3,
+    "name": "Boca Code Candidate Page Before",
+    "about": "",
+    "website": "https://jsohndata.github.io/cogito-ergo-sum/",
+    "cover": "bcBefore2.webp",
+    "skill": ["React.js"]
+  },  
+
+  {
+    "id": 4,
+    "name": "CBoca Code Candidate Page Before",
+    "about": "",
+    "website": "https://jsohndata.github.io/cozy-counter/",
+    "cover": "bcAfter2.webp",
+    "skill": ["React.js"]
+  }
+]

@@ -1,5 +1,5 @@
 # Boca Code Candidates Redesign
-A software engineer portfolio site with a futuristic Tokyo theme. Developed during Cohort 10 (C-10) as a class project utilizing React.js and Bootstrap 5.
+A website I built to show the journey through my internship's redesigning of Boca Code School's candidates page.
 
 ## Website
 

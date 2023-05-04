@@ -13,15 +13,15 @@ export default function ThreeThings() {
     <main>
       <Container fluid id="three-things" className="p-5">
         <Row>
-          <Col><h2 className="text-center">Three Things 
-          <span>That bring pride to my mom.</span></h2></Col>
+          <Col><h2 className="text-center">Our Focus 
+          <span>Why did we redesign?</span></h2></Col>
         </Row>
         
         <Row className="justify-content-center g-5">
           <Col sm={8} lg={3}>
             <p className="icon"><img src={problemimg} style={{width: "50%"}} /></p>
             <h3 className="text-center">Our <span className="d-md-block">Problem</span></h3>
-            <p className="text-center text-md-start">Boca Code's candidate page lacked content and wasn't up to standard to with other current and competitive bootcamps. Many features were also lacking mobile responsitivity.</p>
+            <p className="text-center text-md-start">Boca Code's candidate page lacked content and wasn't up to standard with other current and competitive bootcamps. Many features were also lacking mobile responsitivity.</p>
           </Col>
 
           <Col sm={8} lg={3}>

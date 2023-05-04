@@ -2,36 +2,40 @@
   {
     "id": 1,
     "name": "Boca Code Candidates Page Before",
-    "about": "\b \b \b \b \b \b \b \b \b ",
-    "website": "https://jsohndata.github.io/kardashev-scale/",
+    "about": "In Boca Code's Previous candidates page, picures were too small, and had excess white space and overall needed a revamp.",
+    "website": "https://www.figma.com/file/WFV4tdciUXVcOTsbHwC8kb/Boca-Code-Candidates-Redesign?type=design&node-id=0%3A1&t=heSZ6KAFjHPR8xVz-1",
     "cover": "bcBefore1.webp",
     "skill": ["HTML","CSS"]
   },
 
+
   {
     "id": 2,
+    "name": "Boca Code Candidate Page Before",
+    "about": "In the previous Candidate page, student information was lacking and user's weren't really able to learn much about a student through a simple paragraph. ",
+    "website": "https://www.figma.com/file/WFV4tdciUXVcOTsbHwC8kb/Boca-Code-Candidates-Redesign?type=design&node-id=0%3A1&t=heSZ6KAFjHPR8xVz-1",
+    "cover": "bcBefore2.webp",
+    "skill": ["React.js"]
+  }, 
+
+  {
+    "id": 3,
     "name": "Boca Code Candidates Page After",
-    "about": "",
-    "website": "https://jsohndata.github.io/bluenight-in-seoul",
+    "about": "To address the previous issues, we created student cards with their final project image as a background to show off student's unique styles, and made each student card and image larger to fill in some of the unnecessary white space.",
+    "website": "https://www.figma.com/file/WFV4tdciUXVcOTsbHwC8kb/Boca-Code-Candidates-Redesign?type=design&node-id=0%3A1&t=heSZ6KAFjHPR8xVz-1",
     "cover": "bcAfter1.webp",
     "skill": ["HTML","JavaScript","CSS"]
   },
 
-  {
-    "id": 3,
-    "name": "Boca Code Candidate Page Before",
-    "about": "",
-    "website": "https://jsohndata.github.io/cogito-ergo-sum/",
-    "cover": "bcBefore2.webp",
-    "skill": ["React.js"]
-  },  
+ 
 
   {
     "id": 4,
-    "name": "CBoca Code Candidate Page Before",
-    "about": "",
-    "website": "https://jsohndata.github.io/cozy-counter/",
+    "name": "Boca Code Candidate Page After",
+    "about": " We added each studen't final project as well as a Q&A to learn much about each student'sunique strengths and skills as well as adding more color and styling changes to add more energy and passion to the page.",
+    "website": "https://www.figma.com/file/WFV4tdciUXVcOTsbHwC8kb/Boca-Code-Candidates-Redesign?type=design&node-id=0%3A1&t=heSZ6KAFjHPR8xVz-1",
     "cover": "bcAfter2.webp",
     "skill": ["React.js"]
   }
+
 ]

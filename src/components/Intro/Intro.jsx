@@ -13,11 +13,11 @@ export default function Intro() {
             // xl={5} 
             className="p-4">
               <h1><span>Boca Code's</span> Candidates Page Redesign</h1>
-              <p>I am a software engineer residing in south Florida. I love JavaScript, React.js, CSS, Python, MongoDB and more. When I'm not crafting code, you will find me tending to my garden, keeping my Belgian Malinois on her toes (paws), and revving up my Ducati like it's an API.</p>
+              <p>As part of my Project Management Internship at Boca Code I worked closely with two other members of the UX/UI internship to redesign Boca Code's candidates page. Using Figma, we designed a new layout for both desktop and mobile views. We then acted as stakeholders to the current Boca Code cohort as they built the live version in a one day hackathon. We helped the students with any wire framing or styling questions.</p>
               <HashLink to="/#portfolio" style={{"textDecoration":"none"}}><Button 
                 size="lg" 
                 variant="outline-danger" 
-                className="button-style button-effect">See Figma</Button></HashLink>
+                className="button-style button-effect">See Redesigns</Button></HashLink>
           </Col>
         </Row>
       </Container>

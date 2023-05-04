@@ -8,11 +8,11 @@ export default function List () {
     <Container id="portfolio" className="p-5">
       <Row>
         <Col>
-          <h2 className="text-center">Portfolio <span>Where creativity and code collide.</span></h2>
+          <h2 className="text-center">Redesigns <span>Click a Card to view our Figma Designs.</span></h2>
         </Col>
       </Row>
 
-      <Row className="g-3 justify-content-center">
+      <Row className="g-3 justify-content-center portfolio-list">
         {
           data.map( 
             (element) => {

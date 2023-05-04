@@ -41,4 +41,15 @@ li, p {
   font-size: clamp(1.0rem, 4vw, 1.25rem);
 }
 
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  object-fit: contain;
+
+}
+
+.panel {
+  height: 100%;
+}
 

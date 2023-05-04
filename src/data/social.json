@@ -3,27 +3,20 @@
     "id": 901,
     "title": "Linkedin",
     "name": "linkedin",
-    "url": "https://www.linkedin.com/in/jsohndata/"
+    "url": "https://www.linkedin.com/in/andylinnell/"
   },
-
-  {
-    "id": 902,
-    "title": "YouTube",
-    "name": "youtube",
-    "url": "https://www.youtube.com/@jsohndata"
-  },
-
-  {
-    "id": 903,
-    "title": "GitHub",
-    "name": "github",
-    "url": "https://github.com/jsohndata"
-  },
-
   {
     "id": 904,
     "title": "CodePen",
     "name": "codepen",
-    "url": "https://codepen.io/jsohndata/"
+    "url": "https://my-portfolio-al.web.app/"
+  },
+  {
+    "id": 903,
+    "title": "GitHub",
+    "name": "github",
+    "url": "https://github.com/andylinnell"
   }
+
+
 ]
